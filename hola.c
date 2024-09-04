@@ -2,7 +2,10 @@
 
 int main (){
     int val1=0;
-    printf("Hola 4A");
+    float flotante=3;
+    printf("hola esto es un ejemplo"+ val1 );
+    printf("Hola 4B");
+
 
     return 0;
 }
